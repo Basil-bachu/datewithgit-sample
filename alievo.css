@@ -1,0 +1,56 @@
+header{
+	background-color:black;
+	width:100%;
+	height:40px;
+	color:white;
+	font-size:13px;
+	
+	padding-top: 5px;
+    
+}
+
+#nav-text{
+	color:black;
+}
+
+#nav-text:hover {
+	color:red;
+}
+
+.logo{
+	width: 224px;
+    margin-left: 191px;
+    padding-top: -26px;
+}
+#navbar{
+	padding-right: 108px;
+    padding-top: 14px;
+	
+}
+
+
+.container-1 {
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    margin-right: auto;
+    margin-left: auto;
+	width: 100%;
+    /* padding-right: var(--bs-gutter-x,.75rem); */
+    /* padding-left: var(--bs-gutter-x,.75rem); */
+    margin-right: auto;
+    margin-left: auto;
+}
+#red-border{
+	--bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+    max-width: 100.5%;
+	height: 166px;
+	background-color:#c22525;
+		
+}
+
