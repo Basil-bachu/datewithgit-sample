@@ -1,0 +1,25 @@
+git init (new file)
+git clone
+git config --global user.name "Basil"
+git config --global user.email "baschubasil8@gmail.com"
+git branch 
+git merge 
+git status 
+git add (git file adding) or git --all (full file)
+git commit -m "  "
+git checkout 
+git diff
+git stash (text deleteing)
+git log --all --decorate --graph
+
+git remote add hun (link paste)
+git remote (log)
+
+git push hub master (my file pushd)
+
+
+
+
+commend code:--
+mkdir --(new folder) or md
+cd.>  --(new file)
